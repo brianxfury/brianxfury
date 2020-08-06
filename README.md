@@ -10,6 +10,6 @@
 💻 Programming Languages: Java, Python, and R
 </p></b></i>
 <p><b><i>
-:round_pushpin:
+:round_pushpin: Linkedin site: linkedin.com/in/brianxfury
 </p></b></i>
  
