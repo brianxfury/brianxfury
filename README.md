@@ -4,9 +4,9 @@
 ⭐ GitHub Pro, Artic Vault Code Contributor
 </p></b></i>
 <p><b><i>
-🚩 Focus on Information Security, Cloud Networks, SD-WAN, Wireless Networks, Network Automation, Software Development
+🚩 Focus on Information Security, Cloud Networks, SD-WAN, Wireless Networks, Network Automation, Software Development, Field Programmable Gate Array (FPGA)
 </p></b></i>
 <p><b><i>
-💻 Programming Languages: Java, Python, and R
+💻 Programming Languages: Verilog, VHDL, Java, Python, and R
 </p></b></i>
  
