@@ -4,7 +4,7 @@
 ⭐ GitHub Pro, Artic Vault Code Contributor
 </p></b></i>
 <p><b><i>
-🚩 Focus on Information, Cloud Networks, SD-WAN, Wireless Networks, Network Automation, Software Development
+🚩 Focus on Information Security, Cloud Networks, SD-WAN, Wireless Networks, Network Automation, Software Development
 </p></b></i>
 <p><b><i>
 💻 Programming Languages: Java, Python, and R
