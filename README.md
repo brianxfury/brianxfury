@@ -9,7 +9,4 @@
 <p><b><i>
 💻 Programming Languages: Verilog, VHDL, Java, Python, and R
 </p></b></i>
-
-Streak:
-9/7 | 
  
