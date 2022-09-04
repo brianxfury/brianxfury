@@ -3,16 +3,7 @@
 <p><b><i>
 ⭐ GitHub Pro, Artic Vault Code Contributor
 </p></b></i>
-<p><b><i>
-🚩 Focus on Information Security, Cloud Networks, SD-WAN, Wireless Networks, Network Automation, Software Development, Field Programmable Gate Array (FPGA)
-</p></b></i>
-<p><b><i>
-💻 Programming Languages: Verilog, VHDL, Java, Python, and R
-</p></b></i>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianxfury&layout=compact)](https://github.com/brianxfury/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianxfury&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianxfury&layout=compact)](https://github.com/brianxfury/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianxfury&show_icons=true&theme=radical)
 
  
