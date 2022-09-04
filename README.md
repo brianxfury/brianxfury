@@ -10,6 +10,8 @@
 💻 Programming Languages: Verilog, VHDL, Java, Python, and R
 </p></b></i>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianxfury)](https://github.com/brianxfury/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianxfury&layout=compact)](https://github.com/brianxfury/github-readme-stats)
+
 
  
